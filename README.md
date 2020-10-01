@@ -1,1 +1,1 @@
-git add README.md
+This project is made to compare the fires in US such as California, between Sep 1-13 and Sep 14-20. The file contains information about longitude, latitude, and the brightness of each fires. The marker specifically indicates fires with brightness over 450.
